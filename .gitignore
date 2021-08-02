@@ -2,3 +2,4 @@ App-DiffCPANReleases-*
 .build
 *~
 nytprof*
+.DS_Store
